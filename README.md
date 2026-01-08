@@ -1,9 +1,9 @@
 # FlexiMart Data Architecture Project
 
-**Student Name:** [Your Full Name]  
-**Student ID:** [Your Student ID]  
-**Email:** [Your Email ID]  
-**Date:** [Submission Date]
+Student Name: Gaurav Sarawagi  
+Student ID: bitsom_ba_25072078 
+Email: gauravsarawagi194@gmail.com  
+Date: 08-01-2025
 
 ---
 
@@ -17,4 +17,11 @@ The project demonstrates practical implementation of relational databases, NoSQL
 
 ## Repository Structure
 
-# bitsom_ba_25072078-fleximart-data-architecture-
+bitsom_ba_25072078-fleximart-data-architecture-/
+│
+├── part1-database-etl/
+├── part2-nosql/
+├── part3-datawarehouse/
+├── .gitignore
+└── README.md
+
